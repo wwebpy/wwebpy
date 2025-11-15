@@ -5,7 +5,7 @@ I’m a Digital Business student with a strong passion for building modern appli
 ### What I enjoy
 - Developing mobile & web applications  
 - Training machine learning models for prediction tasks  
-- Exploring new digital business concepts  
+- Exploring new innovations and startups
 - Working with modern tech stacks and data-driven workflows  
 
 ### Connect with me
