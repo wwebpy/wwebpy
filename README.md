@@ -9,8 +9,8 @@ I’m a Digital Business student with a strong passion for building modern appli
 - Working with modern tech stacks and data-driven workflows
 
 ### Currently working on
-- AI & Data Science Hackathon Liebherr 
 - Miui App - a productivity App for Women
+- Data analyst AI-Agent
 
 ### Connect with me
 Feel free to reach out on LinkedIn or GitHub!
