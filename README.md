@@ -15,6 +15,6 @@ I’m a Digital Business student with a strong passion for building modern appli
 ### Connect with me
 You can connect with me here:
 
-- LinkedIn: linkedin.com/in/burak-tamer
-- Xing: https://www.xing.com/profile/Burak_Tamer3/web_profiles?isBusinessCardInEditMode=true
+- LinkedIn: https://www.linkedin.com/in/burak-tamer/
+- Xing: https://www.xing.com/profile/Burak_Tamer3/
 - GitHub: https://github.com/wwebpy
