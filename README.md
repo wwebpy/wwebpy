@@ -13,4 +13,8 @@ I’m a Digital Business student with a strong passion for building modern appli
 - Data analyst AI-Agent
 
 ### Connect with me
-Feel free to reach out on LinkedIn or GitHub!
+You can connect with me here:
+
+- LinkedIn: linkedin.com/in/burak-tamer
+- Xing: https://www.xing.com/profile/Burak_Tamer3/web_profiles?isBusinessCardInEditMode=true
+- GitHub: https://github.com/wwebpy
