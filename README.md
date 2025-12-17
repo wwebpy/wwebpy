@@ -12,8 +12,7 @@ I’m a Digital Business (Master) student with a strong passion for building mod
 - Miui App - a productivity App for Women
 
 ### My Expertise
-- Data Science
-- Machine Learning
+- Data Science / AI / Machine Learning
 - Automation (Workflowmanagement / Processmanagement / Process-Mining)
 - Software Engineering
 
