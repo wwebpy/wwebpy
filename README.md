@@ -17,7 +17,6 @@ I’m a Digital Business (Master) student with a strong passion for building mod
 - Software Engineering
 
 ### Connect with me
-You can connect with me here: Burak Tamer
 - LinkedIn: https://www.linkedin.com/in/burak-tamer/
 - Xing: https://www.xing.com/profile/Burak_Tamer3/
 - GitHub: https://github.com/wwebpy
