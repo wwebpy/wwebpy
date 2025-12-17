@@ -12,6 +12,13 @@ I’m a Digital Business student with a strong passion for building modern appli
 - Miui App - a productivity App for Women
 - Data analyst AI-Agent
 
+### My Expertise
+- Data Science
+- Machine Learning
+- Automation (Workflowmanagement / Processmanagement)
+- Process Mining
+- Software Engineering
+
 ### Connect with me
 You can connect with me here: Burak Tamer
 
